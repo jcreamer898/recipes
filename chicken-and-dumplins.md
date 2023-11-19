@@ -17,4 +17,4 @@
 
 4. After all strips-are in pot remove pot from heat and put lid on pot to let stand for a few minutes. 
 
-5. Stir and serve.![image](https://github.com/jcreamer898/recipes/assets/472487/7a73cb16-21c1-4e42-8488-70f2b245e97b)
+5. Stir and serve.
