@@ -1,12 +1,12 @@
 # Chicken and Dumplins
 
 ## Ingredients
-[] 32 oz of chicken broth
-[] Shredded chicken chicken  (from Costco or just a rotisserie chicken)
-[] Large can of cream of chicken soup
-[] 2 cups of milk
-[] Approximately 1/2 stick of butter
-[] Flour Tortillas
+* [ ] 32 oz of chicken broth
+* [ ] Shredded chicken chicken  (from Costco or just a rotisserie chicken)
+* [ ] Large can of cream of chicken soup
+* [ ] 2 cups of milk
+* [ ] Approximately 1/2 stick of butter
+* [ ] Flour Tortillas
 
 ## Instructions
 1. Debone whole rotisserie chicken or just get a bunch of shredded chicken somehow. 
