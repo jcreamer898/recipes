@@ -8,9 +8,9 @@
 - [ ] 1/3 cup of peanut butter
 
 Then,
-1. Add milk to a sauce pan
+1. Add milk to a sauce pan over medium heat
 1. Add sugar, salt, and corn starch
-1. Mix above until thick
+1. Mix above until thick using a whisk
 1. Separate 3 egg yolks, 
 1. Add to mixture cook a few minutes
 1. Add butter
